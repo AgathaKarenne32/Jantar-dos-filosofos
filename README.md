@@ -22,7 +22,7 @@ Este projeto é uma implementação do clássico problema de sincronização em 
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 
-  * [Ex: Git, JDK 11, Python 3.8]
+  * [Ex: Git, Python 3.8]
   * [Adicione outros pré-requisitos]
 
 ### Rodando o Projeto
