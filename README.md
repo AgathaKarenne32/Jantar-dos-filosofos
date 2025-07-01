@@ -14,7 +14,7 @@ Este projeto é uma implementação do clássico problema de sincronização em 
 
   * **Linguagem:** [Python]
   * **Concorrência:** [Threads, Semáforos, Mutex]
-  * **Bibliotecas:**[Time, random, pandas]
+  * **Bibliotecas:**[Time, random, pandas, threading]
 
 ## clonar o projeto e instalar as dependências.
 
@@ -23,7 +23,6 @@ Este projeto é uma implementação do clássico problema de sincronização em 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 
   * [Ex: Git, Python 3.8]
-  * [Adicione outros pré-requisitos]
 
 ### Rodando o Projeto
 
