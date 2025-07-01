@@ -14,7 +14,7 @@ Este projeto é uma implementação do clássico problema de sincronização em 
 
   * **Linguagem:** [Python]
   * **Concorrência:** [Threads, Semáforos, Mutex]
-  * **Bibliotecas:**[Pygame]
+  * **Bibliotecas:**[Time, random, pandas]
 
 ## clonar o projeto e instalar as dependências.
 
